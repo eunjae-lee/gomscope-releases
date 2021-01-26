@@ -1,5 +1,5 @@
 # GomScope Releases
 
-This is an archive ofGomScope releases.
+This is an archive of GomScope releases.
 
-[Changelog](CHANGELOG.md)
+[View Changelog →](CHANGELOG.md)
