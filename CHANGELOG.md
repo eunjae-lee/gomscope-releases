@@ -7,4 +7,4 @@
 * **Sidebar:** add help button in the sidebar
 * **Search:** change the search shortcut to `cmd + f`
 * **Search:** clean up bloated search results
-* **Graph (style):** dim the close button if setting is opened
+* **Graph:** dim the close button if setting is opened
