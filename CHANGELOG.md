@@ -1,3 +1,7 @@
+## 0.5.4 (2021-01-29)
+
+* open related graph in a correct position
+
 ## 0.5.3 (2021-01-29)
 
 * minor fixes
