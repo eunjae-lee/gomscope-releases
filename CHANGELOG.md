@@ -1,3 +1,11 @@
+# 0.6.0 (2021-01-31)
+
+
+### Features
+
+* unlinked references
+
+
 ## 0.5.4 (2021-01-29)
 
 * open related graph in a correct position
