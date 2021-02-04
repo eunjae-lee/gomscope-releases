@@ -1,3 +1,11 @@
+## 0.6.1 (2021-02-04)
+
+
+### Bug Fixes
+
+* performance enhanced on scoped graph (with large number of notes)
+
+
 # 0.6.0 (2021-01-31)
 
 
