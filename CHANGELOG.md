@@ -1,3 +1,13 @@
+## 0.6.2 (2021-02-05)
+
+
+### Bug Fixes
+
+* alt+click on graph menu to exclude all the tags
+* improve tag exclusion in graph menu
+
+
+
 ## 0.6.1 (2021-02-04)
 
 
