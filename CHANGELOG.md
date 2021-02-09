@@ -1,3 +1,7 @@
+## 0.6.3 (2021-02-09)
+
+* Add logs to check performance. The logs are not sent to anywhere. You can find them under `~/Library/Logs/GomScope/main.log`.
+
 ## 0.6.2 (2021-02-05)
 
 
