@@ -1,3 +1,17 @@
+# 0.7.0 (2021-02-16)
+
+
+### Bug Fixes
+
+* improve the performance of scoped graph
+
+
+### Features
+
+* add search to graph
+
+
+
 ## 0.6.3 (2021-02-09)
 
 * Add logs to check performance. The logs are not sent to anywhere. You can find them under `~/Library/Logs/GomScope/main.log`.
