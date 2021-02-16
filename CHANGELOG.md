@@ -3,7 +3,7 @@
 
 ### Bug Fixes
 
-* improve the performance of scoped graph
+* improve the performance of related graph
 
 
 ### Features
